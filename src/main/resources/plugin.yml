@@ -1,0 +1,8 @@
+name: FoxBite
+version: '${project.version}'
+main: me.foxikle.foxbite.FoxBite
+api-version: 1.18
+prefix: FB
+authors: [ Foxikle ]
+description: An Anicheat for a spigot sever
+website: Github.com/Foxikle
